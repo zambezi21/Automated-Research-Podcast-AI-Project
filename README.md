@@ -1,7 +1,6 @@
 # Automated-Research-Podcast-AI-Project
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
 The Automated-Research-Podcast-AI-Project is aimed to leverage Notebook LM's capabilities to ingest and analyze research papers, facilitating interactive exploration of complex topics through conversation with the chatbot, ultimately culminating in the creation of informative and engaging podcasts designed to disseminate knowledge in an accessible and alternative learning format.
 ### Skills Learned
