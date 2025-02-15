@@ -10,7 +10,6 @@ The Automated-Research-Podcast-AI-Project is aimed to leverage Notebook LM's cap
 - AI Tool Interaction
 - Critical Evaluation of AI Output
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 - NotebookLM
 - ChatGPT
 - Web Browsers
