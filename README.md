@@ -1,4 +1,4 @@
-# Automated-Research-Podcast-AI-Project#
+# Automated-Research-Podcast-AI-Project
 
 ## Objective
 [Brief Objective - Remove this afterwards]
