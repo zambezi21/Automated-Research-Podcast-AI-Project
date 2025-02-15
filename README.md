@@ -3,8 +3,7 @@
 ## Objective
 [Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
-
+The Automated-Research-Podcast-AI-Project is aimed to leverage Notebook LM's capabilities to ingest and analyze research papers, facilitating interactive exploration of complex topics through conversation with the chatbot, ultimately culminating in the creation of informative and engaging podcasts designed to disseminate knowledge in an accessible and alternative learning format.
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
