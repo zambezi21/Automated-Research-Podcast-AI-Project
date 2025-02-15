@@ -30,8 +30,8 @@ The Automated-Research-Podcast-AI-Project is aimed to leverage Notebook LM's cap
 ![image](https://github.com/user-attachments/assets/4e90b548-93e7-4e0c-a64b-5a5125a4c74e)
 *Ref 2: Notebook LM with the source you have picked as well as the chat and what will make the convesations that you have with the chat will make into a podcast*
 
-The next step to start asking questions with the chat as well as conversing about the topics in the report. Then take those questions and responses from the chat and save them as notes and add the notes to a source for the podcast. 
+The next step to start asking questions with the chat as well as conversing about the topics in the report. Then take those questions and responses from the chat and save them as notes and add the notes to a source for the podcast.(you can also use a LLM to help you with the questions that you will ask the chat from the specific page in the report) 
 
 ![image](https://github.com/user-attachments/assets/35cfc086-83f9-4329-9fc4-db822ff01961)
-*Ref 3: Webpage of the notes and sources from the paper that you have created*
+*Ref 3: Webpage of the notes and sources from the reserach paper that you have created*
 
