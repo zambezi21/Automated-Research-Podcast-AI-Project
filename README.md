@@ -20,10 +20,7 @@ The Automated-Research-Podcast-AI-Project is aimed to leverage Notebook LM's cap
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+- The first step was to find a research paper or report that you find interesting to you. S
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
+![image](https://github.com/user-attachments/assets/a6ad40c7-4967-495f-8f4a-a2f0a5aacfe1)
 *Ref 1: Network Diagram*
