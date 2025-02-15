@@ -44,4 +44,10 @@ The next step to start asking questions with the chat as well as conversing abou
 
 *Ref 5:This process may take some time so you can sit and relax and mabye go do something else for a little*
 
+One of the final steps that you will do is download the file and save it to your computer. 
 
+*Ref 5:This process may take some time so you can sit and relax and mabye go do something else for a little*
+
+This is the podcast that was created to listen to. 
+
+https://notebooklm.google.com/notebook/82024b13-6c56-4a22-bdce-1932c9978997/audio
