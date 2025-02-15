@@ -22,10 +22,10 @@ The Automated-Research-Podcast-AI-Project is aimed to leverage Notebook LM's cap
 ## Steps
 - The first step was to find a research paper or report that you find interesting to you. 
 
-![image](https://github.com/user-attachments/assets/a6ad40c7-4967-495f-8f4a-a2f0a5aacfe1)
-*Ref 1: Webite of the reasearch paper by the DNI*
+ ![image](https://github.com/user-attachments/assets/a6ad40c7-4967-495f-8f4a-a2f0a5aacfe1)
+ *Ref 1: Webite of the reasearch paper by the DNI*
 
 - The second step is to find some articles of the report and copy the urls and past them into a NotebookLM discussion. 
 
-![image](https://github.com/user-attachments/assets/4e90b548-93e7-4e0c-a64b-5a5125a4c74e)
-*Ref 2: Notebook LM with the source you have picked as well as the chat and what will make the convesations that you have with the chat will make into a podcast*
+ ![image](https://github.com/user-attachments/assets/4e90b548-93e7-4e0c-a64b-5a5125a4c74e)
+ *Ref 2: Notebook LM with the source you have picked as well as the chat and what will make the convesations that you have with the chat will make into a podcast*
