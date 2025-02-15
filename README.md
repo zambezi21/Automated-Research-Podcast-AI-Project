@@ -47,6 +47,7 @@ The next step to start asking questions with the chat as well as conversing abou
 The final steps that you will do is download the file and then all you will have to do is click the play button.
 
 ![image](https://github.com/user-attachments/assets/dcca6ded-6767-4547-bf24-1ca41c3394be)
+
 *Ref 6:Final look of the podcast that you can then listen to*
 
 This is the podcast that was created to listen to. 
