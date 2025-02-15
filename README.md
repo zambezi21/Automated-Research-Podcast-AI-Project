@@ -38,3 +38,9 @@ The next step to start asking questions with the chat as well as conversing abou
 ![image](https://github.com/user-attachments/assets/35cfc086-83f9-4329-9fc4-db822ff01961)
 *Ref 4: Webpage of the notes and sources from the reserach paper that you have created*
 
+- Then you will click on the generate button to create the podcast on the topics that you feed the chat and the source as well as the questions that you asked the chat.
+
+![image](https://github.com/user-attachments/assets/3998b72c-db3d-48c8-8228-e21bcf46c6d1)
+*Ref 5:This process may take some time so you can sit and relax and mabye go do something else for a little*
+
+
