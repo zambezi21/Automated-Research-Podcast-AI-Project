@@ -4,15 +4,16 @@
 
 The Automated-Research-Podcast-AI-Project is aimed to leverage Notebook LM's capabilities to ingest and analyze research papers, facilitating interactive exploration of complex topics through conversation with the chatbot, ultimately culminating in the creation of informative and engaging podcasts designed to disseminate knowledge in an accessible and alternative learning format.
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
-
-
-
+- Research and Infomation Gathering
+- Prompt Engineering/Question Formulation
+- Content Curation and Podcast Development
+- AI Tool Interaction
+- Critical Evaluation of AI Output
 ### Tools Used
 [Bullet Points - Remove this afterwards]
-
-
-
+- NotebookLM
+- ChatGPT
+- Web Browsers
 ## Steps
 - The first step was to find a research paper or report that you find interesting to you. 
 
